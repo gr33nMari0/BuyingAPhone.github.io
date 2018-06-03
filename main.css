@@ -5,27 +5,27 @@
 }
 
 
-ul {
+nav ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
     overflow: hidden;
     background-color: #398C8B;
 }
-li {
+nav li {
     float: left;
 }
-li a {
+nav li a {
     display: block;
     color: white;
     text-align: center;
     padding: 15px 20px;
     text-decoration: none;
 }
-li a:hover {
+nav li a:hover {
     background-color: #111;
 }
-.active {
+nav .active {
     background-color: #4CAF50;
 }
 
@@ -76,7 +76,6 @@ body {
 	color:white;
 	margin:200px, 0, 0, 0;
 	padding:30px;
-	border-bottom:5px solid white;
 }
 .assess1 {
 	padding:15px 40px;
