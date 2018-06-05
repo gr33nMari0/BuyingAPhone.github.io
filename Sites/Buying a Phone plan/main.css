@@ -1,0 +1,134 @@
+@import url('https://fonts.googleapis.com/css?family=Lato|Roboto|Tajawal');
+
+* {
+    box-sizing: border-box;
+}
+
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #398C8B;
+}
+nav li {
+    float: left;
+}
+nav li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 15px 20px;
+    text-decoration: none;
+}
+nav li a:hover {
+    background-color: #111;
+}
+nav .active {
+    background-color: #4CAF50;
+}
+
+
+body {
+	font-family: 'Roboto', sans-serif;
+}
+.title {
+	color:white;
+	text-align:center;
+	font-size:90px;
+	height:140px;
+	width:auto;
+	margin:40px auto;
+	padding:15px;
+}
+.commerce {
+	font-size:25px;
+	text-align:center;
+	margin: 20px auto 2px auto;
+	padding:5px;
+	width:420px;
+	background-color:rgba(221,222,168,0.79);
+	border-top-right-radius: 17px;
+	border-bottom-right-radius: 17px;
+	border-top-left-radius: 17px;
+	border-bottom-left-radius: 17px;
+	line-height:1.2;
+}
+.commerce a {
+	text-decoration: underline;
+	color:inherit;
+}
+.IMGphones {
+	display:block;
+	margin:100px auto 20px auto;
+	width: 42%;
+	height: 27%;
+	border: 5px solid white;
+	border-top-right-radius: 20px;
+	border-bottom-right-radius: 20px;
+	border-top-left-radius: 20px;
+	border-bottom-left-radius: 20px;
+}
+
+
+.phoneplan h1 {
+	margin-left:10%;
+	margin-right:10%;
+	color:white;
+	font-size:50px;
+	text-align:center;
+}
+.phoneplan h2 {
+	margin-left:10%;
+	margin-right:10%;
+	font-size:35px;
+	color:white;
+	text-align:center;
+}
+.phoneplan p {
+	margin-left:10%;
+	margin-right:10%;
+	color:white;
+	text-align:center;
+	font-size:22px;
+}
+
+
+.contract h1 {
+	
+	margin-left:10%;
+	margin-right:10%;
+	color:white;
+	text-align:center;
+}
+.contract p {
+	
+	margin-left:10%;
+	margin-right:10%;
+	color:white;
+	text-align:center;
+	font-size:22px;
+}
+
+
+#bground1{
+	background-image: url('../../Media/icons-asphalt.jpg');
+	border-bottom:10px solid rgba(255,255,255,1.00);
+}
+#bground2{
+	background-image: url('../../Media/icons-blue.jpg');
+	border-bottom:10px solid rgba(255,255,255,1.00);
+}
+#bground3{
+	background-image: url('../../Media/icons-green.jpg');
+	border-bottom:10px solid rgba(255,255,255,1.00);
+}
+#bground4{
+	background-image: url('../../Media/icons-orange.jpg');
+	border-bottom:10px solid rgba(255,255,255,1.00);
+}
+#bground5{
+	background-image: url('../../Media/icons-red.jpg');
+	border-bottom:10px solid rgba(255,255,255,1.00);
+}
