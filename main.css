@@ -57,6 +57,11 @@ body {
 	border-bottom-right-radius: 17px;
 	border-top-left-radius: 17px;
 	border-bottom-left-radius: 17px;
+	line-height:1.2;
+}
+.commerce a {
+	text-decoration: underline;
+	color:inherit;
 }
 .IMGphones {
 	display:block;
@@ -71,11 +76,13 @@ body {
 }
 
 
+
 .assess {
 	background-color:rgba(70,70,70,0.67);
 	color:white;
 	margin:200px, 0, 0, 0;
 	padding:30px;
+	font-size:18px;
 }
 .assess1 {
 	padding:15px 40px;
@@ -83,7 +90,55 @@ body {
 }
 .situation1, .situation2, .situation3 {
 	margin:0 40px;
-	font-size:140%;
+}
+#questions {
+	text-align:left;
+	margin-right:60%;
+	line-height:1.3;
+}
+#Smartphone_video {
+	margin: -80% 0 20px 45%;
+	border: 0px solid black;
+	border-top-right-radius: 20px;
+	border-bottom-right-radius: 20px;
+	border-top-left-radius: 20px;
+	border-bottom-left-radius: 20px;
+}
+
+
+.buy {
+	color:white;
+	margin:200px, 0, 0, 0;
+	padding:30px;
+	font-size:18px;
+	border-bottom:5px solid white;
+}
+.buy p {
+	background-color:rgba(78,78,78,0.57);
+	padding:15px;
+	border-top-right-radius: 20px;
+	border-bottom-right-radius: 20px;
+	border-top-left-radius: 20px;
+	border-bottom-left-radius: 20px;
+	text-align:center;
+	margin-bottom:25px;
+}
+.buy h1 {
+	padding:15px 40px;
+	border-bottom:5px solid white;
+	color:white;
+}
+.buy .checkout1 {
+	margin:50px auto;
+	display:block;
+}
+.buy .map {
+	margin:0 auto;
+	display:inline-block;
+}
+.buy p a {
+	color:inherit;
+	
 }
 
 
