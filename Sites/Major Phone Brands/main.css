@@ -69,25 +69,25 @@ body {
 	border-bottom-right-radius: 20px;
 	border-top-left-radius: 20px;
 	border-bottom-left-radius: 20px;
-	background-color:whitesmoke;
+	background-color:rgba(245,245,245,0.41);
 }
 
 
-.phoneplan h1 {
+.provider h1 {
 	margin-left:10%;
 	margin-right:10%;
 	color:white;
 	font-size:50px;
 	text-align:center;
 }
-.phoneplan h2 {
+.provider h2 {
 	margin-left:10%;
 	margin-right:10%;
 	font-size:35px;
 	color:white;
 	text-align:center;
 }
-.phoneplan p {
+.provider p {
 	margin-left:10%;
 	margin-right:10%;
 	color:white;
@@ -96,29 +96,47 @@ body {
 }
 
 
-.contract h1 {
+.providerbrands h1 {
+	text-align: center;
+	color:white;
+	font-size:50px;
+	margin-top:200px;
+	margin-bottom:100px;
+}
+.providerbrands h2 {
+	display:inline-block;
+	color:white;
+	border:5px solid white;
+	border-top-right-radius: 20px;
+	border-bottom-right-radius: 20px;
+	border-top-left-radius: 20px;
+	border-bottom-left-radius: 20px;
+	padding:7px;
+	vertical-align: 70%;
 	
-	margin-left:10%;
-	margin-right:10%;
-	color:white;
-	text-align:center;
 }
-.contract p {
-	
-	margin-left:10%;
-	margin-right:10%;
-	color:white;
-	text-align:center;
-	font-size:22px;
+.providerbrands a {
+	display:inline-block;
 }
-.contract h2 {
-	margin-left:10%;
-	margin-right:10%;
-	font-size:35px;
-	color:white;
-	text-align:center;
+.providerbrands a img {
+	height:auto;
+	width:170px;
 }
-
+.telco h2 {
+	margin-left:38%;
+	margin-right:6%;
+	margin-bottom:100px;
+	width:150px;
+}
+.telco a {
+	margin-right:20%;
+	background-color:rgba(255,255,255,0.76);
+	padding:20px;
+	border-top-right-radius: 20px;
+	border-bottom-right-radius: 20px;
+	border-top-left-radius: 20px;
+	border-bottom-left-radius: 20px;
+}
 
 #bground1{
 	background-image: url('../../Media/icons-asphalt.jpg');
