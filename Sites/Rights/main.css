@@ -59,85 +59,25 @@ body {
 	text-decoration: underline;
 	color:inherit;
 }
-.IMGphones {
-	display:block;
-	margin:100px auto 20px auto;
-	width: 42%;
-	height: 27%;
-	border: 5px solid white;
-	border-top-right-radius: 20px;
-	border-bottom-right-radius: 20px;
-	border-top-left-radius: 20px;
-	border-bottom-left-radius: 20px;
-	background-color:whitesmoke;
-}
 
 
-.phoneplan h1 {
-	margin-left:10%;
-	margin-right:10%;
-	margin-top:150px;
-	color:white;
-	font-size:50px;
-	text-align:center;
-}
-.phoneplan h2 {
-	margin-left:10%;
-	margin-right:10%;
-	font-size:35px;
-	color:white;
-	text-align:center;
-}
-.phoneplan p {
-	margin-left:10%;
-	margin-right:10%;
-	color:white;
-	text-align:center;
-	font-size:22px;
-}
-
-
-.contract h1 {
-	
-	margin-left:10%;
-	margin-right:10%;
-	color:white;
-	text-align:center;
-}
-.contract p {
-	
-	margin-left:10%;
-	margin-right:10%;
-	color:white;
-	text-align:center;
-	font-size:22px;
-}
-.contract h2 {
-	margin-left:10%;
-	margin-right:10%;
-	font-size:35px;
-	color:white;
-	text-align:center;
-}
-
-
-#bground1{
+#bground1 {
 	background-image: url('../../Media/icons-asphalt.jpg');
 	border-bottom:10px solid rgba(255,255,255,1.00);
 }
-#bground2{
+#bground2 {
 	background-image: url('../../Media/icons-blue.jpg');
 	border-bottom:10px solid rgba(255,255,255,1.00);
 }
-#bground3{
+#bground3 {
 	background-image: url('../../Media/icons-green.jpg');
 	border-bottom:10px solid rgba(255,255,255,1.00);
 }
-#bground4{
+#bground4 {
 	background-image: url('../../Media/icons-orange.jpg');
 	border-bottom:10px solid rgba(255,255,255,1.00);
 }
-#bground5{
+#bground5 {
 	background-image: url('../../Media/icons-red.jpg');
 	border-bottom:10px solid rgba(255,255,255,1.00);
 }
