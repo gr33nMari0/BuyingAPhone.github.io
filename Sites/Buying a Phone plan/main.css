@@ -95,6 +95,9 @@ body {
 	text-align:center;
 	font-size:22px;
 }
+.phoneplan a {
+	color:inherit;
+}
 
 
 .contract h1 {
@@ -119,6 +122,19 @@ body {
 	color:white;
 	text-align:center;
 }
+ol {
+	margin-left:10%;
+	margin-right:10%;
+	font-size:35px;
+	color:white;
+	text-align:center;
+}
+
+.italic {
+	font-style:italic;
+}
+
+
 
 
 #bground1{
