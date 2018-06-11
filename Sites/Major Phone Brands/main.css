@@ -138,6 +138,30 @@ body {
 	border-bottom-left-radius: 20px;
 }
 
+
+.phonebrands h1 {
+	margin-left:10%;
+	margin-right:10%;
+	color:white;
+	font-size:50px;
+	text-align:center;
+}
+.phonebrands h2 {
+	margin-left:10%;
+	margin-right:10%;
+	font-size:35px;
+	color:white;
+	text-align:center;
+}
+.phonebrands p {
+	margin-left:10%;
+	margin-right:10%;
+	color:white;
+	text-align:center;
+	font-size:22px;
+}
+
+
 #bground1{
 	background-image: url('../../Media/icons-asphalt.jpg');
 	border-bottom:10px solid rgba(255,255,255,1.00);

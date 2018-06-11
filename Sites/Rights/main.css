@@ -59,6 +59,65 @@ body {
 	text-decoration: underline;
 	color:inherit;
 }
+.IMGphones {
+	display:block;
+	margin:100px auto 20px auto;
+	width: 42%;
+	height: 27%;
+	border: 3px solid black;
+	border-top-right-radius: 20px;
+	border-bottom-right-radius: 20px;
+	border-top-left-radius: 20px;
+	border-bottom-left-radius: 20px;
+}
+
+
+
+h1 {
+	margin-left:10%;
+	margin-right:10%;
+	color:white;
+	font-size:50px;
+	text-align:center;
+}
+h2 {
+	margin-left:10%;
+	margin-right:10%;
+	font-size:35px;
+	color:white;
+	text-align:center;
+}
+h3 {
+	margin-left:10%;
+	margin-right:10%;
+	font-size:25px;
+	color:white;
+	text-align:center;
+}
+p {
+	margin-left:10%;
+	margin-right:10%;
+	color:white;
+	text-align:center;
+	font-size:22px;
+}
+ol {
+	margin-left:10%;
+	margin-right:10%;
+	color:white;
+	text-align:center;
+	font-size:22px;
+}
+.italic {
+	font-style:italic;
+}
+.bold {
+	font-style:italic;
+}
+a {
+	text-decoration:none;
+	color:inherit;
+}
 
 
 #bground1 {
